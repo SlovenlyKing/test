@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "d:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "d:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "d:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "d:\\GitTest\\Clone\\test\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Slovenly_King\\.nuget\\packages\\",
-        "outputPath": "D:\\GitTest\\Clone\\test\\ConsoleApp1\\obj\\",
+        "outputPath": "d:\\GitTest\\Clone\\test\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
